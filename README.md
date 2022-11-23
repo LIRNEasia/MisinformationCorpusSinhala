@@ -3,3 +3,4 @@ A dataset consisting of 3576 documents in Sinhala, drawn from Sri Lankan news we
 
 Paper (covering methodology and results of machine learning classification): https://lirneasia.net/2021/07/a-corpus-and-machine-learning-models-for-fake-news-classification-in-sinhala/
 
+Update as of Nov 2022: please note that some parts of the original corpus were corrupted, for reasons unknown to us. This repo restores the files. 
