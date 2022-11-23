@@ -13,7 +13,6 @@ This dataset is released under a CC BY 4.0 license. This license allows reusers 
 
 ## Citing this work
 
-Jayawickrama, V., Ranasinghe, A., Attanayake, D. C., & Wijeratne, Y. (2021). .
 
     @misc{jayawickrama2021sinhala,
        title={A corpus and machine learning models for fake news classification in sinhala},
