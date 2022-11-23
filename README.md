@@ -18,7 +18,5 @@ This dataset is released under a CC BY 4.0 license. This license allows reusers 
        title={A corpus and machine learning models for fake news classification in sinhala},
        author={Vihanga Jayawickrama, Asanka Ranasinghe, Dimuthu C. Attanayake, and Yudhanjaya Wijeratne,
        year={2021},
-       eprint={2112.00468},
-       archivePrefix={arXiv},
        primaryClass={cs.CL}
     }
